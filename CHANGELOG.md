@@ -1,5 +1,9 @@
 # go-fastly CHANGELOG
 
+## realtimeStatsToken (Unreleased)
+
+- Add RT Stat client method that takes token as argument
+
 ## v0.4.3 (Unreleased)
 
 - Add WAF methods for fetching status of rules, both one at a time and in filtered lists
